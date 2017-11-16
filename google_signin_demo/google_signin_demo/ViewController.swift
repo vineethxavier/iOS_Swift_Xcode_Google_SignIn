@@ -10,7 +10,7 @@ import UIKit
 import Firebase
 import GoogleSignIn
 
-//GIDSignIn.sharedInstance().signOut()
+
 
 class ViewController: UIViewController, GIDSignInUIDelegate, GIDSignInDelegate {
     
